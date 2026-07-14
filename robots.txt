@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-bze68k.juragan89.space/sitemap.xml
